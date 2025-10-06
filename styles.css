@@ -74,6 +74,7 @@ img {
 }
 .ingredients {
   text-align: start;
+  border-bottom: 1px solid var(--Stone-150);
 }
 
 .title {
